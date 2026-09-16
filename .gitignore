@@ -1,0 +1,7 @@
+*.csv
+*.png
+R_figs/
+R_figs_final/
+figures/
+__pycache__/
+*.docx
